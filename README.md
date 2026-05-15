@@ -1,1 +1,1 @@
-**Digitally-enhanced second-order multi-bit Sigma-Delta ADC** designed in 90 nm CMOS, featuring DWA-based DAC linearization, drift-compensated switched-capacitor integrators, and reconfigurable OSR modes. Implementing and verifying in Cadence Virtuoso with full PVT, mismatch, loop-stability, and post-layout (PEX) analysis.
+2nd-order ct ΣΔ Modulator with multi-bit feedback DAC, Dynamic Element Matching (DWA), and OTA offset self-calibration implemented in 90 nm CMOS using Cadence Virtuoso and Verilog-A.
